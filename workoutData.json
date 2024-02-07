@@ -1,0 +1,293 @@
+
+[
+  [
+    {
+      "id": 1,
+      "exercise": "Seated Leg Press",
+      "reps": 10,
+      "sets": 3,
+      "maxWeight": 90,
+      "sets-recored": [
+        {"weight-update":34, "reps-update":3},
+        {"weight-update":34, "reps-update":3},
+        {"weight-update":34, "reps-update":3}
+      ]
+    },
+    {
+      "id": 2,
+      "exercise": "Seated Shoulder Press",
+      "reps": 10,
+      "sets": 3,
+      "maxWeight": 90,
+      "sets-recored": [
+        {"weight-update":34, "reps-update":3},
+        {"weight-update":34, "reps-update":3},
+        {"weight-update":34, "reps-update":3}
+      ]
+    },
+    {
+      "id": 3,
+      "exercise": "Close Grip Lat Pulldown",
+      "reps": 10,
+      "sets": 3,
+      "maxWeight": 90,
+      "sets-recored": [
+        {"weight-update":34, "reps-update":3},
+        {"weight-update":34, "reps-update":3},
+        {"weight-update":34, "reps-update":3}
+      ]
+    },
+    {
+      "id": 4,
+      "exercise": "Bodyweight Lunges",
+      "reps": 10,
+      "sets": 3,
+      "maxWeight": 90,
+      "sets-recored": [
+        {"weight-update":34, "reps-update":3},
+        {"weight-update":34, "reps-update":3},
+        {"weight-update":34, "reps-update":3}
+      ]
+    },
+    {
+      "id": 5,
+      "exercise": "Full/Kneeling Press Ups",
+      "reps": 10,
+      "sets": 3,
+      "maxWeight": 90,
+      "sets-recored": [
+        {"weight-update":34, "reps-update":3},
+        {"weight-update":34, "reps-update":3},
+        {"weight-update":34, "reps-update":3}
+      ]
+    },
+    {
+      "id": 6,
+      "exercise": "Plank",
+      "duration": "30 secs",
+      "sets": 3,
+      "maxWeight": 90,
+      "sets-recored": [
+        {"weight-update":34, "reps-update":3},
+        {"weight-update":34, "reps-update":3},
+        {"weight-update":34, "reps-update":3}
+      ]
+    },
+    {
+      "id": 7,
+      "exercise": "Leg Raises",
+      "reps": 10,
+      "sets": 3,
+      "maxWeight": 90,
+      "sets-recored": [
+        {"weight-update":34, "reps-update":3},
+        {"weight-update":34, "reps-update":3},
+        {"weight-update":34, "reps-update":3}
+      ]
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "exercise": "Sholder Press",
+      "reps": 10,
+      "sets": 3,
+      "maxWeight": 90,
+      "sets-recored": [
+        {"weight-update":34, "reps-update":3},
+        {"weight-update":34, "reps-update":3},
+        {"weight-update":34, "reps-update":3}
+      ]
+    },
+    {
+      "id": 2,
+      "exercise": "Seated Shoulder Press",
+      "reps": 10,
+      "sets": 2
+    },
+    {
+      "id": 3,
+      "exercise": "Close Grip Lat Pulldown",
+      "reps": 10,
+      "sets": 4
+    },
+    {
+      "id": 4,
+      "exercise": "Bodyweight Lunges",
+      "reps": 10,
+      "sets": 8
+    },
+    {
+      "id": 5,
+      "exercise": "Full/Kneeling Press Ups",
+      "reps": 10,
+      "sets": 3,
+      "maxWeight": 90,
+      "sets-recored": [
+        {"weight-update":34, "reps-update":3},
+        {"weight-update":34, "reps-update":3},
+        {"weight-update":34, "reps-update":3}
+      ]
+    },
+    {
+      "id": 6,
+      "exercise": "Plank",
+      "duration": "30 secs",
+      "sets": 3,
+      "maxWeight": 90,
+      "sets-recored": [
+        {"weight-update":34, "reps-update":3},
+        {"weight-update":34, "reps-update":3},
+        {"weight-update":34, "reps-update":3}
+      ]
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "exercise": "Pull Ups",
+      "reps": 10,
+      "sets": 3,
+      "maxWeight": 90,
+      "sets-recored": [
+        {"weight-update":34, "reps-update":3},
+        {"weight-update":34, "reps-update":3},
+        {"weight-update":34, "reps-update":3}
+      ]
+    },
+    {
+      "id": 2,
+      "exercise": "Seated Shoulder Press",
+      "reps": 10,
+      "sets": 3,
+      "maxWeight": 90,
+      "sets-recored": [
+        {"weight-update":34, "reps-update":3},
+        {"weight-update":34, "reps-update":3},
+        {"weight-update":34, "reps-update":3}
+      ]
+    },
+    {
+      "id": 3,
+      "exercise": "Close Grip Lat Pulldown",
+      "reps": 10,
+      "sets": 3,
+      "maxWeight": 90,
+      "sets-recored": [
+        {"weight-update":34, "reps-update":3},
+        {"weight-update":34, "reps-update":3},
+        {"weight-update":34, "reps-update":3}
+      ]
+    },
+    {
+      "id": 4,
+      "exercise": "Bodyweight Lunges",
+      "reps": 10,
+      "sets": 3,
+      "maxWeight": 90,
+      "sets-recored": [
+        {"weight-update":34, "reps-update":3},
+        {"weight-update":34, "reps-update":3},
+        {"weight-update":34, "reps-update":3}
+      ]
+    },
+    {
+      "id": 5,
+      "exercise": "Full/Kneeling Press Ups",
+      "reps": 10,
+      "sets": 3,
+      "maxWeight": 90,
+      "sets-recored": [
+        {"weight-update":34, "reps-update":3},
+        {"weight-update":34, "reps-update":3},
+        {"weight-update":34, "reps-update":3}
+      ]
+    },
+    {
+      "id": 6,
+      "exercise": "Plank",
+      "duration": "30 secs",
+      "sets": 3,
+      "maxWeight": 90,
+      "sets-recored": [
+        {"weight-update":34, "reps-update":3},
+        {"weight-update":34, "reps-update":3},
+        {"weight-update":34, "reps-update":3}
+      ]
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "exercise": "Bicepes Press",
+      "reps": 10,
+      "sets": 3,
+      "maxWeight": 90,
+      "sets-recored": [
+        {"weight-update":34, "reps-update":3},
+        {"weight-update":34, "reps-update":3},
+        {"weight-update":34, "reps-update":3}
+      ]
+    },
+    {
+      "id": 2,
+      "exercise": "Seated Shoulder Press",
+      "reps": 10,
+      "sets": 3,
+      "maxWeight": 90,
+      "sets-recored": [
+        {"weight-update":34, "reps-update":3},
+        {"weight-update":34, "reps-update":3},
+        {"weight-update":34, "reps-update":3}
+      ]
+    },
+    {
+      "id": 3,
+      "exercise": "Close Grip Lat Pulldown",
+      "reps": 10,
+      "sets": 3,
+      "maxWeight": 90,
+      "sets-recored": [
+        {"weight-update":34, "reps-update":3},
+        {"weight-update":34, "reps-update":3},
+        {"weight-update":34, "reps-update":3}
+      ]
+    },
+    {
+      "id": 4,
+      "exercise": "Bodyweight Lunges",
+      "reps": 10,
+      "sets": 3,
+      "maxWeight": 90,
+      "sets-recored": [
+        {"weight-update":34, "reps-update":3},
+        {"weight-update":34, "reps-update":3},
+        {"weight-update":34, "reps-update":3}
+      ]
+    },
+    {
+      "id": 5,
+      "exercise": "Full/Kneeling Press Ups",
+      "reps": 10,
+      "sets": 3,
+      "maxWeight": 90,
+      "sets-recored": [
+        {"weight-update":34, "reps-update":3},
+        {"weight-update":34, "reps-update":3},
+        {"weight-update":34, "reps-update":3}
+      ]
+    },
+    {
+      "id": 6,
+      "exercise": "Plank",
+      "duration": "30 secs",
+      "sets": 3,
+      "maxWeight": 90,
+      "sets-recored": [
+        {"weight-update":34, "reps-update":3},
+        {"weight-update":34, "reps-update":3},
+        {"weight-update":34, "reps-update":3}
+      ]
+    }
+  ]
+]
